@@ -1,0 +1,10 @@
+﻿  func.c
+C:\Users\Win-Malware01\Desktop\Malwares folder\Thread-Hijacking\Thread-Hijacking\func.c(50,16): warning C4047: '=' : les niveaux d'indirection de 'DWORD64' et de 'PVOID' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\Thread-Hijacking\Thread-Hijacking\func.c(14,8): warning C4047: 'initialisation' : les niveaux d'indirection de 'DWORD' et de 'void *' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\Thread-Hijacking\Thread-Hijacking\func.c(70,12): warning C4047: '=' : les niveaux d'indirection de 'BYTE' et de 'char [15]' sont différents
+  Th-Hijacking.c
+C:\Users\Win-Malware01\Desktop\Malwares folder\Thread-Hijacking\Thread-Hijacking\Th-Hijacking.c(33,31): warning C4047: 'fonction' : les niveaux d'indirection de 'SIZE_T' et de 'void *' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\Thread-Hijacking\Thread-Hijacking\Th-Hijacking.c(33,31): warning C4024: 'CreateThread' : types différents pour le paramètre formel et réel 2
+C:\Users\Win-Malware01\Desktop\Malwares folder\Thread-Hijacking\Thread-Hijacking\Th-Hijacking.c(46,10): warning C4477: 'printf' : la chaîne de format '%ls' nécessite un argument de type 'unsigned short *', mais l'argument variadique 1 est de type 'DWORD (__cdecl *)(void)'
+  Génération de code en cours...
+  Thread-Hijacking.vcxproj -> C:\Users\Win-Malware01\Desktop\Malwares folder\Thread-Hijacking\x64\Debug\Thread-Hijacking.exe
